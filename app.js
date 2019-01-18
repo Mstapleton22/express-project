@@ -1,7 +1,7 @@
 const express = require('express')
 const app = express()
 const port = 3003
-const data = require('./data.json')
+const stevenuniverse = require('./data.json')
 const cors = require('cors')
 
 const bodyParser = require('body-parser')
@@ -11,8 +11,28 @@ app.use(cors())
 
 app.use(express.static('public'))
 
-app.get("/data", (req, res, next) => {
-  get.status(200).send({ data: data })
+app.get("/stevenuniverse", (req, res, next) => {
+  res.status(200).send({
+    stevenuniverse: stevenuniverse
+  })
 })
 
-app.listener(port, () => console.log(`Steven Stars in ${port}`))
+app.get("/:tag", (req, res, next) => {
+  const tag = req.params.tag
+  if (!stevenuniverse.tags.includes(tag)) {
+    res.status(404).send("Sorry that tag does not exist. Please choose from the following: fusion, homeplanetgem, crystalgem, human, queer, fighter, beachcityresident, singer, diamond, empath, internalturmoil")
+  } else {
+    const matchData = stevenuniverse.characters.filter(character => character.tags.includes(tag))
+    res.status(200).send(matchData)
+  }
+})
+
+app.post("/send", (req, res, next) => {
+  res.status(200).send("Your Steven Stars are Travelling through space to home world!")
+})
+
+app.use((req, res, next) => {
+  res.status(404).send("Sorry, that is not valide URL.")
+})
+
+app.listen(port, () => console.log(`Steven Stars in ${port}`))

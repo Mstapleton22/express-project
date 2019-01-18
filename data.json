@@ -1,16 +1,16 @@
 {
   "tags": [
-    "Fusion",
-    "Home Planet Gem",
-    "Crystal Gem",
-    "Human",
-    "Queer",
-    "Fighter",
-    "Beach City Resident",
-    "Singer",
-    "Diamond",
-    "Empath",
-    "Internal Turmoil"
+    "fusion",
+    "homeplanetgem",
+    "crystalgem",
+    "human",
+    "queer",
+    "fighter",
+    "beachcityresident",
+    "singer",
+    "diamond",
+    "empath",
+    "internalturmoil"
   ],
   "characters": [
     {
@@ -20,13 +20,13 @@
       "fusionForm": "Stevonnie, Smokey Quartz",
       "characterArc": "Steven Universe is the main star of the show. He's 14 now, and has grown into his Gem-Human hybrid identity as the show continues. Steven has the ability to fuse with best friend (or future love of life) Connie. He has a pet lion and is the descendant of Greg Univers and Rose Quartz. Steven is a member of the reknown team of out-laws known as the Crystal Gems.",
       "tags": [
-        "Fusion",
-        "Crystal Gem",
-        "Human",
-        "Fighter",
-        "Singer",
-        "Beach City Resident",
-        "Empath"
+        "fusion",
+        "crystalgem",
+        "human",
+        "fighter",
+        "singer",
+        "beachcityresident",
+        "empath"
       ]
     },
     {
@@ -36,12 +36,12 @@
       "fusionForm": "Opal, Alexandrite, Rainbow Quarts, Sardonyx",
       "characterArc": "Pearl, the pledged allegiance to Rose Quartz, soon to be understood as an allegiance to Pink Diamond, is the keeper of young Steven. Misunderstood, Pearl keeps her thoughts and emotions internally as she struggles to let go of the love of her life, Rose. Her relationship with herself is compromised by her past relationships, and she is left putting all others before herself. She is a servant pearl turned Warrior ally. Self taught in combat, she excels in battle strategy and hand to hand combat.",
       "tags": [
-        "Crystal Gem",
-        "Fighter",
-        "Singer",
-        "Beach City Resident",
-        "Queer",
-        "Internal Turmoil"
+        "crystalgem",
+        "fighter",
+        "singer",
+        "beachcityresident",
+        "queer",
+        "internalturmoil"
       ]
     },
     {
@@ -51,11 +51,11 @@
       "fusionForm": "Opal, Alexandrite, Sugilite, Smokey Quartz",
       "characterArc": "Amethyst was the first Crystal Gem born on earth. From the kingergarten, Amethyst was the runt of the extraction. Misunderstood and up to mischief, she wandered into the Crystal Gems after being left behind by home world. Since then, Amethyst has protected earth, has been up to no good with Steven Universe and ate her way through Beach City and the bits. Her tough exterior is no mistake for the soft heavy heart she carries concerning her identity and purpose.",
       "tags": [
-        "Crystal Gem",
-        "Fighter",
-        "Beach City Resident",
-        "Queer",
-        "Internal Turmoil"
+        "crystalgem",
+        "fighter",
+        "beachcityresident",
+        "queer",
+        "internalturmoil"
       ]
     },
     {
@@ -65,11 +65,12 @@
       "fusionForm": "Garnet, Alexandrite, Sugilite, Sardonyx",
       "characterArc": "Garnet, the leader of the Crystal Gems, leaders with integrity of future vision and power beyond comparison. She gains motivation and stamina from her believe in true love, destiny and personal belief. She's never alone as her form is made of two gems - Ruby and Sapphire. Hot and Cold Garnet was misunderstood by homeworld. Gems aren't allowed to permanently fuse in homeworld so the moment she landed on earth during the gem war, she was on the run. Discovered by Rose Quartz, she was given a home. She understand how to take a moment and make it last forever.",
       "tags": [
-        "Crystal Gem",
-        "Fighter",
-        "Singer",
-        "Beach City Resident",
-        "Queer"
+        "fusion",
+        "crystalgem",
+        "fighter",
+        "singer",
+        "beachcityresident",
+        "queer"
       ]
     },
     {
@@ -79,11 +80,11 @@
       "fusionForm": "Fused with Rose Quartz to create Steven Universe",
       "characterArc": "Greg was a nobody musician trying to make it to startdom. Until he met Rose, his life was about music and emotional release. After meeting Rose Quartz, his mind widened to the possibility of all possibilities life holds. He fell in love. And in doing so, lost the woman he loved to give her everything she could ever want, a human life.",
       "tags": [
-        "Human",
+        "human",
         "empath",
-        "Singer",
-        "Beach City Resident",
-        "Internal Turmoil"
+        "singer",
+        "beachcityresident",
+        "internalturmoil"
       ]
     },
     {
@@ -93,13 +94,13 @@
       "fusionForm": "Rainbow Quartz",
       "characterArc": "Rose, the leader and creator of the Crystal Gems before Garnet. Her motivation to change form from Pink Diamond and into Rose Quartz flows from her fascination of Earth and humans. Her mistreated life on home planet lead her to grow a bond with her kindergarten and life in general on planet Earth for four centuries. When it was finally time to have Steven Universe, she knew it was the right choice. That human and gem life alike is sacred. And that we shouldn't drain planets just because we can.",
       "tags": [
-        "Crystal Gem",
-        "Fighter",
-        "Singer",
-        "Beach City Resident",
-        "Queer",
-        "Diamond",
-        "Home Planet Gem"
+        "crystalgem",
+        "fighter",
+        "singer",
+        "beachcityresident",
+        "queer",
+        "diamond",
+        "homeplanetgem"
       ]
     },
     {
@@ -109,11 +110,11 @@
       "fusionForm": "Stevonnie",
       "characterArc": "Connie, a force to be reckoned with. Her loyalty to herself and to Steven prove to be her strengths. With dedication and training, Connie has become the first full human member of the Crystal Gems. As the fusion Stevonnie, Stevonnie tears down barriers of gender, social construction and shines light on caring for another.",
       "tags": [
-        "Crystal Gem",
-        "Fighter",
-        "Singer",
-        "Beach City Resident",
-        "Human"
+        "crystalgem",
+        "fighter",
+        "singer",
+        "beachcityresident",
+        "human"
       ]
     }
   ]

@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Mstapleton22/express-project/issues"
   },
-  "homepage": "https://github.com/Mstapleton22/express-project#readme"
+  "homepage": "https://github.com/Mstapleton22/express-project#readme",
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
 }
