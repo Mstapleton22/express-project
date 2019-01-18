@@ -11,7 +11,7 @@ app.use(cors())
 
 app.use(express.static('public'))
 
-app.get("/stevenuniverse", (req, res, next) => {
+app.get("/", (req, res, next) => {
   res.status(200).send({
     stevenuniverse: stevenuniverse
   })
