@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express()
-const port = 3003
+const port = process.env.PORT || 3003
 const stevenuniverse = require('./data.json')
 const cors = require('cors')
 
@@ -27,7 +27,7 @@ app.get("/:tag", (req, res, next) => {
   }
 })
 
-app.post("/send", (req, res, next) => {
+app.post("/post", (req, res) => {
   res.status(200).send("Your Steven Stars are Travelling through space to home world!")
 })
 

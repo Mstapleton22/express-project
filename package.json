@@ -1,8 +1,11 @@
 {
   "name": "express-project",
   "version": "1.0.0",
+  "engines": {
+    "node": "11.0.0"
+  },
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js",
@@ -19,6 +22,8 @@
   },
   "homepage": "https://github.com/Mstapleton22/express-project#readme",
   "dependencies": {
-    "cors": "^2.8.5"
+    "cors": "^2.8.5",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4"
   }
 }
