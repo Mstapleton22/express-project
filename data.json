@@ -116,6 +116,49 @@
         "beachcityresident",
         "human"
       ]
+    },
+    {
+      "name": "Lapis Lazuli",
+      "gem": "Lapis Lazuli",
+      "ability": "Hydrokinesis, Flight, Water Constructs, Hydromimicry, Water Bubbles",
+      "fusionForm": "Malichite",
+      "characterArc": "Misconstrued, tormented, and mental fierce. Lapis Lazuli has seen darkness and does not run from its purpose. Lapis has struggled to trust the Crystal Gems after being locked in their crystal mirror for centuries. She finds trust and a glimmer of hope in the Crystal Gems when Steven heals her cracked gem to take flight back to homeworld. After returning home centuries later, Lapis realizes the unhealthy structure of home world and returns back to earth. She sets up life in the country side with partner, Peridot. The two kick back, farm and build new life on Earth. With all of the strength an ocean holds, Lapis is deadly and responds immediately on impulse to those who are a threat to her. She sacrificed herself to save Steven when Jasper attacked Earth by entering a toxic fusion with Jasper. Lapis chained her fused self to the bottom of the ocean to give the Crystal Gems time to reconveine. By far, Lapis is the most misunderstood, gold hearted gem. She works toward truth and banishment of imprisonment.",
+      "tags": [
+        "crystalgem",
+        "homeplanetgem",
+        "fighter",
+        "queer",
+        "empath",
+        "singer",
+        "beachcityresident",
+        "internalturmoil"
+      ]
+    },
+    {
+      "name": "Blue Diamond",
+      "gem": "Diamond",
+      "ability": "Empathic abilities, Radiated Pathokinesis, Energy Projection, Immense Durability",
+      "fusionForm": "None",
+      "characterArc": "Imprisoned by her empathic projections, blue is usually found crying over the loss of Pink Diamond. This sensation wells up into revenge against the Crystal Gems. Blue has the ability to spread her feelings onto those around her, cripling them with sadness. She has a reputation for mercy and forgiveness, but isn't against long term imprisonment for those that disobey her. She believes her relationship with Pink was healthy and prosperous but on the contrary, Blue spent time belittling Pinks desires. She would hear Pink speak, but believe her plans were all just jokes. Now, she pays for this in the form of...Steven.",
+      "tags": [
+        "homeplanetgem",
+        "empath",
+        "singer",
+        "internalturmoil",
+        "diamond"
+      ]
+    },
+    {
+      "name": "Yellow Diamond",
+      "gem": "Diamond",
+      "ability": "Electrokinesis, Corruption Induction, Psychic Resistance, Enhanced Strength",
+      "fusionForm": "None",
+      "characterArc": "Yellow is a rock. Lacking emotional connection she harnesses her emotions into leading home world to universal domination. She reaings over numerous kindergartens and keeps strict regiment in home world daily life. She shocks those around her with her dominating appearance. When she finds out that Pink wasn't actually shattered, her life turns a softer page. She listens, and tries to do what's best for the cluster of broken gems on Earth.",
+      "tags": [
+        "homeplanetgem",
+        "fighter",
+        "diamond"
+      ]
     }
   ]
 }
