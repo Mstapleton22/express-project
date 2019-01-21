@@ -14,6 +14,7 @@
   ],
   "characters": [
     {
+      "image": "public/5b5208d3c051e602a568ce88.png",
       "name": "Steven Quartz Universe",
       "gem": "Rose Quartz",
       "ability": "Summoned Shield, Healing Spit, Sleep Induced Consciousness",
@@ -30,6 +31,7 @@
       ]
     },
     {
+      "image": "../public/5b5208fcc051e602a568ce8c.png",
       "name": "Pearl",
       "gem": "Pearl",
       "ability": "Summoned Spear, Combat, Eating, Relatable, Motherly Tendency",
@@ -45,6 +47,7 @@
       ]
     },
     {
+      "image": "../public/Amethyst_Yep.png",
       "name": "Amethyst",
       "gem": "Amethyst",
       "ability": "Summoned Whip, Combat, Eating, Chaotic Order, Understands flow",
@@ -59,6 +62,7 @@
       ]
     },
     {
+      "image": "../public/5b5208c7c051e602a568ce86.png",
       "name": "Garnet",
       "gem": "Ruby and Sapphire",
       "ability": "Summoned Power Hands, Combat, Future Vision, Confidence, Leadership, Love above all",
@@ -74,6 +78,7 @@
       ]
     },
     {
+      "image": "../public/Greg_-_Young.png",
       "name": "Greg Universe",
       "gem": "None - He's human",
       "ability": "Van dad, Singer/song writer, Lucious Locks of Hair, Dad Talks",
@@ -88,6 +93,7 @@
       ]
     },
     {
+      "image": "../public/Rose_Quartz_-_Weaponized.png",
       "name": "Rose Quartz",
       "gem": "Rose Quartz",
       "ability": "Inspiration, Combat, Healing Tears, Swordfighting, Summoned Sheild, Home World Connections",
@@ -104,6 +110,7 @@
       ]
     },
     {
+      "image": "../public/Connie_in_Sword_Dancers_😸.png",
       "name": "Connie",
       "gem": "None - She's Human",
       "ability": "Intellect, Curiosity, Loyalty, Combat, Violin",
@@ -118,6 +125,7 @@
       ]
     },
     {
+      "image": "../public/LookBeckyItsLapis.png",
       "name": "Lapis Lazuli",
       "gem": "Lapis Lazuli",
       "ability": "Hydrokinesis, Flight, Water Constructs, Hydromimicry, Water Bubbles",
@@ -135,6 +143,7 @@
       ]
     },
     {
+      "image": "../public/Blue_Diamond.png",
       "name": "Blue Diamond",
       "gem": "Diamond",
       "ability": "Empathic abilities, Radiated Pathokinesis, Energy Projection, Immense Durability",
@@ -149,6 +158,7 @@
       ]
     },
     {
+      "image": "../public/Yellow_.png",
       "name": "Yellow Diamond",
       "gem": "Diamond",
       "ability": "Electrokinesis, Corruption Induction, Psychic Resistance, Enhanced Strength",
