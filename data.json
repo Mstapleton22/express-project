@@ -78,7 +78,7 @@
       ]
     },
     {
-      "image": "/public/Greg_-_Young.png",
+      "image": "./public/Greg_-_Young.png",
       "name": "Greg Universe",
       "gem": "None - He's human",
       "ability": "Van dad, Singer/song writer, Lucious Locks of Hair, Dad Talks",
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "image": "../public/Rose_Quartz_-_Weaponized.png",
+      "image": "public/Rose_Quartz_-_Weaponized.png",
       "name": "Rose Quartz",
       "gem": "Rose Quartz",
       "ability": "Inspiration, Combat, Healing Tears, Swordfighting, Summoned Sheild, Home World Connections",
