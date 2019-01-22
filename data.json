@@ -47,7 +47,7 @@
       ]
     },
     {
-      "image": "../public/Amethyst_Yep.png",
+      "image": "../../public/Amethyst_Yep.png",
       "name": "Amethyst",
       "gem": "Amethyst",
       "ability": "Summoned Whip, Combat, Eating, Chaotic Order, Understands flow",
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "image": "../public/5b5208c7c051e602a568ce86.png",
+      "image": "public/5b5208c7c051e602a568ce86.png",
       "name": "Garnet",
       "gem": "Ruby and Sapphire",
       "ability": "Summoned Power Hands, Combat, Future Vision, Confidence, Leadership, Love above all",
