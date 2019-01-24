@@ -14,7 +14,7 @@
   ],
   "characters": [
     {
-      "image": "StevenQuartzUniverse.png",
+      "image": "StevenQuartzUniverse",
       "name": "Steven Quartz Universe",
       "gem": "Rose Quartz",
       "ability": "Summoned Shield, Healing Spit, Sleep Induced Consciousness",
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "image": "5b5208fcc051e602a568ce8c.png",
+      "image": "5b5208fcc051e602a568ce8c",
       "name": "Pearl",
       "gem": "Pearl",
       "ability": "Summoned Spear, Combat, Eating, Relatable, Motherly Tendency",
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "image": "Amethyst_Yep.png",
+      "image": "Amethyst_Yep",
       "name": "Amethyst",
       "gem": "Amethyst",
       "ability": "Summoned Whip, Combat, Eating, Chaotic Order, Understands flow",
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "image": "5b5208c7c051e602a568ce86.png",
+      "image": "5b5208c7c051e602a568ce86",
       "name": "Garnet",
       "gem": "Ruby and Sapphire",
       "ability": "Summoned Power Hands, Combat, Future Vision, Confidence, Leadership, Love above all",
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "image": "Greg_-_Young.png",
+      "image": "Greg_-_Young",
       "name": "Greg Universe",
       "gem": "None - He's human",
       "ability": "Van dad, Singer/song writer, Lucious Locks of Hair, Dad Talks",
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "image": "Rose_Quartz_-_Weaponized.png",
+      "image": "Rose_Quartz_-_Weaponized",
       "name": "Rose Quartz",
       "gem": "Rose Quartz",
       "ability": "Inspiration, Combat, Healing Tears, Swordfighting, Summoned Sheild, Home World Connections",
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "image": "Connie_in_Sword_Dancers_😸.png",
+      "image": "Connie_in_Sword_Dancers_😸",
       "name": "Connie",
       "gem": "None - She's Human",
       "ability": "Intellect, Curiosity, Loyalty, Combat, Violin",
@@ -125,7 +125,7 @@
       ]
     },
     {
-      "image": "LookBeckyItsLapis.png",
+      "image": "LookBeckyItsLapis",
       "name": "Lapis Lazuli",
       "gem": "Lapis Lazuli",
       "ability": "Hydrokinesis, Flight, Water Constructs, Hydromimicry, Water Bubbles",
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "image": "Blue_Diamond.png",
+      "image": "Blue_Diamond",
       "name": "Blue Diamond",
       "gem": "Diamond",
       "ability": "Empathic abilities, Radiated Pathokinesis, Energy Projection, Immense Durability",
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "image": "Yellow_.png",
+      "image": "Yellow_",
       "name": "Yellow Diamond",
       "gem": "Diamond",
       "ability": "Electrokinesis, Corruption Induction, Psychic Resistance, Enhanced Strength",
